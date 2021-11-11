@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb2d07fd-96e6-47c0-a689-8a0b3d759d1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/Polster_Gadi_800553989.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../se-practice/week2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../se-practice/week2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../se-practice/week2/src/main/java/edu/yu/registrar/BetterMYYUInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../se-practice/week2/src/main/java/edu/yu/registrar/BetterMYYUInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../se-practice/week2/src/main/java/edu/yu/registrar/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../se-practice/week2/src/main/java/edu/yu/registrar/model/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1p83AqTA1aehWtu5ot0psWLt4e9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stage5/src/main/java/edu/yu/cs/com1320/project/stage5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../stage5/src/main/java/edu/yu/cs/com1320/project/stage5" />
+      <recent name="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com1320/project" />
+      <recent name="$PROJECT_DIR$/../stage4/src/test" />
+      <recent name="$PROJECT_DIR$/../stage4/src/main/java/edu/yu/cs/com1320/project/stage4" />
+      <recent name="$PROJECT_DIR$/../stage3/src/main/java/edu/yu/cs/com1320/project/stage3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.yu.cs.com1320.project.stage5" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.yu.cs.com1320.project.stage5" />
+      <recent name="" />
+      <recent name="edu.yu.cs.com1320.project.impl" />
+      <recent name="edu.yu.cs.com1320.project" />
+      <recent name="edu.yu.cs.com1320.project.stage4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WrongBTree">
+    <configuration name="WrongBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.WrongBTree" />
+      <module name="stage4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreStageFourTests.basicDocCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage4" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage4.DocumentStoreStageFourTests" />
+      <option name="METHOD_NAME" value="basicDocCountTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreStageFourTests.straightUpREALLYComplicatedUndoCommandSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage4" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage4.DocumentStoreStageFourTests" />
+      <option name="METHOD_NAME" value="straightUpREALLYComplicatedUndoCommandSetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage4DocumentStoreImplTests.stage4TestMaxDocCountViaSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.Stage4DocumentStoreImplTests" />
+      <option name="METHOD_NAME" value="stage4TestMaxDocCountViaSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StageOneDocumentStoreTests.testPutBinaryDocumentNoPreviousDocAtURI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.StageOneDocumentStoreTests" />
+      <option name="METHOD_NAME" value="testPutBinaryDocumentNoPreviousDocAtURI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="stage2 [clean,test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../stage5" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DocumentStoreStageFourTests.straightUpREALLYComplicatedUndoCommandSetTest" />
+      <item itemvalue="Maven.tests" />
+      <item itemvalue="Maven.stage2 [clean,test]" />
+      <item itemvalue="JUnit.Stage4DocumentStoreImplTests.stage4TestMaxDocCountViaSearch" />
+      <item itemvalue="JUnit.DocumentStoreStageFourTests.basicDocCountTest" />
+      <item itemvalue="JUnit.StageOneDocumentStoreTests.testPutBinaryDocumentNoPreviousDocAtURI" />
+      <item itemvalue="Application.WrongBTree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WrongBTree" />
+        <item itemvalue="JUnit.StageOneDocumentStoreTests.testPutBinaryDocumentNoPreviousDocAtURI" />
+        <item itemvalue="JUnit.DocumentStoreStageFourTests.basicDocCountTest" />
+        <item itemvalue="JUnit.Stage4DocumentStoreImplTests.stage4TestMaxDocCountViaSearch" />
+        <item itemvalue="JUnit.DocumentStoreStageFourTests.straightUpREALLYComplicatedUndoCommandSetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb2d07fd-96e6-47c0-a689-8a0b3d759d1c" name="Default Changelist" comment="" />
+      <created>1614550750446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614550750446</updated>
+      <workItem from="1614550751904" duration="19954000" />
+      <workItem from="1614814891709" duration="29005000" />
+      <workItem from="1615300281258" duration="29000" />
+      <workItem from="1615300339970" duration="266000" />
+      <workItem from="1615300633100" duration="4155000" />
+      <workItem from="1615398470356" duration="131000" />
+      <workItem from="1615402117416" duration="40000" />
+      <workItem from="1615410009803" duration="17624000" />
+      <workItem from="1616177024504" duration="59169000" />
+      <workItem from="1617378755656" duration="6907000" />
+      <workItem from="1617826599016" duration="312000" />
+      <workItem from="1617832630173" duration="65725000" />
+      <workItem from="1618513892606" duration="9170000" />
+      <workItem from="1618580105945" duration="10894000" />
+      <workItem from="1619409199520" duration="4416000" />
+      <workItem from="1619552166406" duration="19202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/StageOneDocumentStoreTests.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/JudahsStageTwoTests.java</url>
+          <line>209</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/JudahsStageTwoTests.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/DocumentStoreStageFourTests.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/DocumentStoreStageFourTests.java</url>
+          <line>294</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/DocumentStoreStageFourTests.java</url>
+          <line>285</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage4/src/test/java/edu/yu/cs/com1320/project/stage4/DocumentStoreStageFourTests.java</url>
+          <line>251</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage5/src/test/java/edu/yu/cs/com1320/project/stage5/Stage4DocumentStoreImplTests.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage5/src/test/java/edu/yu/cs/com1320/project/stage5/Stage4DocumentStoreImplTests.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../stage5/src/test/java/edu/yu/cs/com1320/project/stage5/StageOneDocumentStoreTests.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

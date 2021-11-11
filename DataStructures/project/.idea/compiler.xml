@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stage3" />
+        <module name="project" />
+        <module name="stage2" />
+        <module name="stage5" />
+        <module name="stage4" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com1320_search" target="11" />
+      <module name="project" target="11" />
+      <module name="stage2" target="11" />
+      <module name="stage3" target="11" />
+      <module name="stage4" target="11" />
+      <module name="stage5" target="11" />
+      <module name="stage5 (1)" target="11" />
+      <module name="stage5 (1) (edu.yu.cs)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
