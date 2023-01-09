@@ -1,0 +1,568 @@
+Dec 25, 2022 8:55:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 25, 2022 8:55:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 8:55:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 8:55:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 25, 2022 8:57:13 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 8:57:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 8:57:24 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 25, 2022 8:59:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 25, 2022 8:59:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 8:59:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 8:59:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 25, 2022 9:00:46 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 9:00:56 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 9:00:58 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 25, 2022 9:01:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 25, 2022 9:01:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 9:01:59 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 9:01:59 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 25, 2022 9:03:34 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 25, 2022 9:03:34 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 9:03:39 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 9:03:39 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 25, 2022 9:05:27 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 9:05:29 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 9:06:28 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 25, 2022 9:06:28 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 9:06:33 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 9:06:33 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 25, 2022 9:08:16 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 9:08:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 9:08:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 25, 2022 11:03:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 25, 2022 11:03:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 25, 2022 11:03:46 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 25, 2022 11:03:46 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 11:03:30 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:03:42 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:03:44 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 11:30:15 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 11:30:15 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:30:19 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:30:19 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 11:32:05 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:32:11 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:32:13 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 11:35:14 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 11:35:14 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:35:19 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:35:19 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 11:37:02 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:37:13 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:37:15 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 11:38:21 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 11:38:21 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 11:40:02 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 11:40:13 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 11:40:15 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 12:59:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 12:59:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 12:59:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 12:59:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 1:01:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 1:01:33 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 1:01:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 1:03:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 1:03:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 1:03:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 1:03:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 1:21:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 1:21:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 1:21:57 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 1:21:57 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 1:23:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 1:23:58 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 1:24:00 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 1:25:24 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 1:25:24 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 1:25:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 1:25:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 2:32:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 2:32:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 2:32:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 2:32:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 2:33:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 2:33:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 2:33:34 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 2:33:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 2:37:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 2:37:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 2:37:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 2:37:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 2:51:33 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 2:51:33 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 2:51:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 2:51:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 2:54:36 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 2:54:36 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 2:54:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 2:54:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 3:50:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 3:50:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 3:50:57 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 3:50:57 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 5:49:02 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 5:49:02 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 5:49:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 5:49:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:01:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:01:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:01:24 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:01:24 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:02:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:02:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:02:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:02:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:06:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:06:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:07:38 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:07:38 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:07:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:07:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:08:13 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:08:13 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:08:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:08:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:10:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:10:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:10:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 6:10:49 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:10:49 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:10:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:10:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:11:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:11:41 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:11:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:11:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:13:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:13:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:13:32 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 6:15:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:15:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:15:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:15:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:18:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:18:07 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:18:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:18:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:20:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:20:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:20:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:20:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:21:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:21:43 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:21:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:21:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 6:30:05 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 6:30:05 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 6:30:10 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 6:30:10 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:05:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:05:45 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:05:57 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:05:57 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:06:01 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:06:02 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:07:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:07:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:07:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:07:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:10:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:10:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:10:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:10:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:14:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:14:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:14:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:14:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:18:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:18:35 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:18:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:18:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:20:26 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:20:26 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:20:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:20:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:22:16 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:22:16 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:22:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:22:20 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:23:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:23:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:23:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:23:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:31:00 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:31:00 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:31:04 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:31:04 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:31:56 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:31:56 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:32:10 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:32:10 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:33:05 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:33:05 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:33:17 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:33:17 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:35:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:35:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 7:35:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 7:35:51 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 7:36:23 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 7:36:23 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:31:06 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:31:06 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:31:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:31:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:31:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:31:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:32:00 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:32:00 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:33:38 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:33:42 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:33:44 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 9:34:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:34:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:34:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:34:53 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:36:29 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:36:29 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:36:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:36:40 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:37:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:37:03 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:37:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:37:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:38:15 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:38:15 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:38:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:38:21 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:39:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:39:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:39:27 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:39:27 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:40:19 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:40:19 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:40:23 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:40:23 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:42:11 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:42:15 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:42:17 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 9:42:42 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:42:42 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:42:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:42:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:44:29 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:44:31 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:44:33 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 9:47:26 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:47:26 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:47:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:47:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:51:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:51:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:51:59 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:52:00 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:53:42 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:53:47 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:53:49 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING
+Dec 26, 2022 9:54:56 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:54:56 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:55:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:55:22 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:56:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: creating UDP connection
+Dec 26, 2022 9:56:25 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:56:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:56:30 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: FOLLOWING
+Dec 26, 2022 9:58:10 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: finding leader
+Dec 26, 2022 9:58:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+FINE: found leader
+Dec 26, 2022 9:58:16 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: LEADING

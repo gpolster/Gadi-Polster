@@ -1,0 +1,2628 @@
+Dec 25, 2022 8:55:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 8:55:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b2ca88a0 and exiting
+Dec 25, 2022 8:55:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 8:55:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b2d95921 and exiting
+Dec 25, 2022 8:55:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 8:55:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b303229c and exiting
+Dec 25, 2022 8:55:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 8:55:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b31f139a and exiting
+Dec 25, 2022 8:55:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 8:55:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b37bc498 and exiting
+Dec 25, 2022 8:55:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 8:55:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b3499519 and exiting
+Dec 25, 2022 8:55:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 8:55:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b4bf9fc3 and exiting
+Dec 25, 2022 8:55:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 8:55:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b49b88c1 and exiting
+Dec 25, 2022 8:55:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:55:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:55:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 8:55:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b4ea613e and exiting
+Dec 25, 2022 8:56:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:56:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:57:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 8:57:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f86539b and exiting
+Dec 25, 2022 8:57:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:28 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 8:57:28 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f942c18 and exiting
+Dec 25, 2022 8:57:28 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:28 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 8:57:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7fe20499 and exiting
+Dec 25, 2022 8:57:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 8:57:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@80d80743 and exiting
+Dec 25, 2022 8:57:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 8:57:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@8134b841 and exiting
+Dec 25, 2022 8:57:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 8:57:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@8102c8be and exiting
+Dec 25, 2022 8:57:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 8:57:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@8110a13f and exiting
+Dec 25, 2022 8:57:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 8:57:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@816c923d and exiting
+Dec 25, 2022 8:57:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:57:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 8:57:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 8:57:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@817b6aba and exiting
+Dec 25, 2022 8:59:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 8:59:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4f7a115c and exiting
+Dec 25, 2022 8:59:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 8:59:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4f48e9dd and exiting
+Dec 25, 2022 8:59:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 8:59:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4fa49adb and exiting
+Dec 25, 2022 8:59:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 8:59:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@509a9d65 and exiting
+Dec 25, 2022 8:59:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 8:59:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@50f68e83 and exiting
+Dec 25, 2022 8:59:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 8:59:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@50d33f81 and exiting
+Dec 25, 2022 8:59:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 8:59:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@512f307f and exiting
+Dec 25, 2022 8:59:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 8:59:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@513d00fc and exiting
+Dec 25, 2022 8:59:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 8:59:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 8:59:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 8:59:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@510bd97d and exiting
+Dec 25, 2022 9:00:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:00:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:01:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 9:01:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bc1de7da and exiting
+Dec 25, 2022 9:01:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 9:01:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bc6bc05b and exiting
+Dec 25, 2022 9:01:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 9:01:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bc79d0d8 and exiting
+Dec 25, 2022 9:01:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 9:01:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bc5581d6 and exiting
+Dec 25, 2022 9:01:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 9:01:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bca45a57 and exiting
+Dec 25, 2022 9:01:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 9:01:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bcb272d4 and exiting
+Dec 25, 2022 9:01:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 9:01:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bdf64dff and exiting
+Dec 25, 2022 9:01:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 9:01:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bdc4267c and exiting
+Dec 25, 2022 9:01:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:01:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:01:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 9:01:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bde0d77a and exiting
+Dec 25, 2022 9:02:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 9:02:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@2601c2dd and exiting
+Dec 25, 2022 9:02:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 9:02:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@25ddb3db and exiting
+Dec 25, 2022 9:02:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:17 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 9:02:17 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@263a5cd9 and exiting
+Dec 25, 2022 9:02:17 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:17 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 9:02:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@26164dd7 and exiting
+Dec 25, 2022 9:02:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 9:02:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@274c1881 and exiting
+Dec 25, 2022 9:02:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 9:02:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@27a8017f and exiting
+Dec 25, 2022 9:02:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 9:02:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@2784f27d and exiting
+Dec 25, 2022 9:02:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 9:02:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@2792cafa and exiting
+Dec 25, 2022 9:02:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:02:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:02:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 9:02:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@27a0a37b and exiting
+Dec 25, 2022 9:03:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:03:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:03:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:03:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:03:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 9:03:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@94b65340 and exiting
+Dec 25, 2022 9:03:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:03:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:03:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 9:03:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@9492043e and exiting
+Dec 25, 2022 9:03:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:03:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:03:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 9:03:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@94a0d4bf and exiting
+Dec 25, 2022 9:03:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:03:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:03:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 9:03:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@94fcc5bd and exiting
+Dec 25, 2022 9:03:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:03:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:04:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 9:04:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f3e48001 and exiting
+Dec 25, 2022 9:04:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:04:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:04:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 9:04:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f40168ff and exiting
+Dec 25, 2022 9:04:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:04:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:04:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 9:04:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f3cf417c and exiting
+Dec 25, 2022 9:04:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:04:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:04:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 9:04:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f42b327a and exiting
+Dec 25, 2022 9:04:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:04:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:04:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 9:04:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f4390afb and exiting
+Dec 25, 2022 9:04:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:04:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:05:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 9:05:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@6100a243 and exiting
+Dec 25, 2022 9:05:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 9:05:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@60dc9341 and exiting
+Dec 25, 2022 9:05:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 9:05:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@612b6bbe and exiting
+Dec 25, 2022 9:05:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 9:05:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@610714bc and exiting
+Dec 25, 2022 9:05:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 9:05:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@61152d3d and exiting
+Dec 25, 2022 9:05:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 9:05:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@616305ba and exiting
+Dec 25, 2022 9:05:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 9:05:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@625908c4 and exiting
+Dec 25, 2022 9:05:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 9:05:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@62a7e145 and exiting
+Dec 25, 2022 9:05:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:05:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 25, 2022 9:05:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 9:05:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@6283d263 and exiting
+Dec 25, 2022 9:06:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 9:06:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@caeaf7bf and exiting
+Dec 25, 2022 9:06:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 9:06:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cc2f1346 and exiting
+Dec 25, 2022 9:06:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 9:06:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cc0bc444 and exiting
+Dec 25, 2022 9:06:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 9:06:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cc1994c5 and exiting
+Dec 25, 2022 9:06:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 9:06:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cc7585e3 and exiting
+Dec 25, 2022 9:06:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 9:06:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cc445e60 and exiting
+Dec 25, 2022 9:06:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 9:06:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cc604f5e and exiting
+Dec 25, 2022 9:06:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:06:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 9:06:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ccae27df and exiting
+Dec 25, 2022 9:06:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:06:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:07:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 9:07:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@2b4801a2 and exiting
+Dec 25, 2022 9:07:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:07:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 25, 2022 9:08:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 25, 2022 9:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@971237bc and exiting
+Dec 25, 2022 9:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 25, 2022 9:08:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98483ac6 and exiting
+Dec 25, 2022 9:08:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:30 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 25, 2022 9:08:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98a42bc4 and exiting
+Dec 25, 2022 9:08:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 25, 2022 9:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98b20445 and exiting
+Dec 25, 2022 9:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 25, 2022 9:08:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98c0d4e2 and exiting
+Dec 25, 2022 9:08:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 25, 2022 9:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@989cc5e0 and exiting
+Dec 25, 2022 9:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 25, 2022 9:08:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98ea9e61 and exiting
+Dec 25, 2022 9:08:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 25, 2022 9:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98f876de and exiting
+Dec 25, 2022 9:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 25, 2022 9:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 25, 2022 9:08:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 25, 2022 9:08:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@98c68f5f and exiting
+Dec 26, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@2070c6d9 and exiting
+Dec 26, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@204c77d7 and exiting
+Dec 26, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f66919a and exiting
+Dec 26, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f434298 and exiting
+Dec 26, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f5f3396 and exiting
+Dec 26, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7fad0c17 and exiting
+Dec 26, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f89b515 and exiting
+Dec 26, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7f97cd32 and exiting
+Dec 26, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@80dba8bd and exiting
+Dec 26, 2022 11:02:56 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:02:56 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:03:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ee59f676 and exiting
+Dec 26, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:03:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ef9e1221 and exiting
+Dec 26, 2022 11:03:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@efecea9e and exiting
+Dec 26, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:54 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:03:54 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@efc89b9c and exiting
+Dec 26, 2022 11:03:54 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:54 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@efd6b41d and exiting
+Dec 26, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:56 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:03:56 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f0248c9a and exiting
+Dec 26, 2022 11:03:56 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:56 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:58 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:03:58 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f0413598 and exiting
+Dec 26, 2022 11:03:58 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:58 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:03:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:03:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f00f4e19 and exiting
+Dec 26, 2022 11:03:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:03:59 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:04:00 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:04:00 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4f292fdc and exiting
+Dec 26, 2022 11:30:32 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:32 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:30:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7188ae34 and exiting
+Dec 26, 2022 11:30:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:30:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@71e55f52 and exiting
+Dec 26, 2022 11:30:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:38 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:30:38 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@72015050 and exiting
+Dec 26, 2022 11:30:38 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:38 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:30:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@73052bdb and exiting
+Dec 26, 2022 11:30:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:30:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7321d4d9 and exiting
+Dec 26, 2022 11:30:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:30:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@736fed56 and exiting
+Dec 26, 2022 11:30:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:30:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@734b9e54 and exiting
+Dec 26, 2022 11:30:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:30:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@735976d5 and exiting
+Dec 26, 2022 11:30:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:30:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:30:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:30:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@73b66773 and exiting
+Dec 26, 2022 11:31:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:31:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:32:16 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:17 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:32:17 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3e0b9f53 and exiting
+Dec 26, 2022 11:32:17 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:17 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:18 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:32:18 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3e1977d0 and exiting
+Dec 26, 2022 11:32:18 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:18 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:32:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3f5d935b and exiting
+Dec 26, 2022 11:32:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:32:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3fac6bd8 and exiting
+Dec 26, 2022 11:32:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:32:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3f8814d6 and exiting
+Dec 26, 2022 11:32:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:32:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3f962d57 and exiting
+Dec 26, 2022 11:32:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:32:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3fe405d4 and exiting
+Dec 26, 2022 11:32:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:32:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3ff2de55 and exiting
+Dec 26, 2022 11:32:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:32:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:32:27 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:32:27 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4000b672 and exiting
+Dec 26, 2022 11:35:31 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:31 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:33 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:35:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@78e0b59a and exiting
+Dec 26, 2022 11:35:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:34 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:35:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@790a7f19 and exiting
+Dec 26, 2022 11:35:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:36 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:37 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:35:37 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@79195796 and exiting
+Dec 26, 2022 11:35:37 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:37 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:39 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:35:39 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@79754894 and exiting
+Dec 26, 2022 11:35:39 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:39 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:41 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:35:41 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7ab923bf and exiting
+Dec 26, 2022 11:35:41 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:41 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7a950cbd and exiting
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:35:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7ae3e53a and exiting
+Dec 26, 2022 11:35:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:35:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7af1bdbb and exiting
+Dec 26, 2022 11:35:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:35:45 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:35:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:35:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7aff9638 and exiting
+Dec 26, 2022 11:36:32 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:36:32 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:37:18 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:37:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@46c3b2be and exiting
+Dec 26, 2022 11:37:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:37:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@46d18b3f and exiting
+Dec 26, 2022 11:37:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:37:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@472e3c3d and exiting
+Dec 26, 2022 11:37:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:37:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@473c4cba and exiting
+Dec 26, 2022 11:37:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:37:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@470a253b and exiting
+Dec 26, 2022 11:37:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:25 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:37:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4717fdb8 and exiting
+Dec 26, 2022 11:37:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:28 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:37:28 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4774eeb6 and exiting
+Dec 26, 2022 11:37:28 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:28 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:37:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@48b8ca61 and exiting
+Dec 26, 2022 11:37:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:37:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:37:31 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:37:31 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@4886a2de and exiting
+Dec 26, 2022 11:38:39 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:39 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:38:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b20ecce3 and exiting
+Dec 26, 2022 11:38:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b26a7de1 and exiting
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:38:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b2476edf and exiting
+Dec 26, 2022 11:38:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:44 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:38:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b2a31fdd and exiting
+Dec 26, 2022 11:38:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:46 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:38:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b2bf08db and exiting
+Dec 26, 2022 11:38:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:48 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:50 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:38:50 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b3c3ec02 and exiting
+Dec 26, 2022 11:38:50 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:50 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:38:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b3d1c483 and exiting
+Dec 26, 2022 11:38:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:51 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:38:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b3df9500 and exiting
+Dec 26, 2022 11:38:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:38:52 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:38:54 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:38:54 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b43b85fe and exiting
+Dec 26, 2022 11:39:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:39:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 11:40:18 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 11:40:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3e06616 and exiting
+Dec 26, 2022 11:40:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:20 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 11:40:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@42e3e97 and exiting
+Dec 26, 2022 11:40:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:21 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 11:40:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@40a2f95 and exiting
+Dec 26, 2022 11:40:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:23 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 11:40:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@41807b2 and exiting
+Dec 26, 2022 11:40:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:24 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 11:40:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@474f0b0 and exiting
+Dec 26, 2022 11:40:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:26 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:27 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 11:40:27 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@442c931 and exiting
+Dec 26, 2022 11:40:27 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:27 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:29 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 11:40:29 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@45e7a2f and exiting
+Dec 26, 2022 11:40:29 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:29 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 11:40:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5947d39 and exiting
+Dec 26, 2022 11:40:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 11:40:30 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 11:40:31 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 11:40:31 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5e355b6 and exiting
+Dec 26, 2022 12:59:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 12:59:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 12:59:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 12:59:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d94ac89c and exiting
+Dec 26, 2022 12:59:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 12:59:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 12:59:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 12:59:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d9a6b19a and exiting
+Dec 26, 2022 12:59:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 12:59:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 12:59:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 12:59:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d9836298 and exiting
+Dec 26, 2022 12:59:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 12:59:58 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:00:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 1:00:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d96e5dd6 and exiting
+Dec 26, 2022 1:00:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:00:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:00:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 1:00:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d94a4ed4 and exiting
+Dec 26, 2022 1:00:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:00:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:00:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 1:00:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d9a5ff72 and exiting
+Dec 26, 2022 1:00:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:00:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:00:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 1:00:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d9b4d7f3 and exiting
+Dec 26, 2022 1:00:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:00:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:00:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 1:00:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d990c0f1 and exiting
+Dec 26, 2022 1:00:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:00:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:00:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 1:00:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d99e996e and exiting
+Dec 26, 2022 1:00:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:00:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:01:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 1:02:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 0";
+    }
+}
+
+Dec 26, 2022 1:02:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b1e1d204 and exiting
+Dec 26, 2022 1:02:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:02:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8090
+Dec 26, 2022 1:03:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 1:03:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@148fa0b7 and exiting
+Dec 26, 2022 1:03:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 1:03:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@14fa6a52 and exiting
+Dec 26, 2022 1:03:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 1:03:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@160c1e5a and exiting
+Dec 26, 2022 1:03:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 1:03:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@16ae81d5 and exiting
+Dec 26, 2022 1:03:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 1:03:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@17f35cfc and exiting
+Dec 26, 2022 1:03:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 1:03:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@17cf4dfa and exiting
+Dec 26, 2022 1:03:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 1:03:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@17dd267b and exiting
+Dec 26, 2022 1:03:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 1:03:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@182afef8 and exiting
+Dec 26, 2022 1:03:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:03:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:03:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 1:03:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1807eff6 and exiting
+Dec 26, 2022 1:04:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:04:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:04:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 1:04:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7e09ba3b and exiting
+Dec 26, 2022 1:04:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:04:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:04:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 1:04:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@7e17d2b8 and exiting
+Dec 26, 2022 1:04:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:04:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:05:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 2";
+    }
+}
+
+Dec 26, 2022 1:05:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@e092d507 and exiting
+Dec 26, 2022 1:05:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:05:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:22:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 1:22:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d3a60f35 and exiting
+Dec 26, 2022 1:22:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 1:22:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d382c053 and exiting
+Dec 26, 2022 1:22:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 1:22:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d39ea951 and exiting
+Dec 26, 2022 1:22:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 1:22:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d52284d8 and exiting
+Dec 26, 2022 1:22:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 1:22:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d53f35d6 and exiting
+Dec 26, 2022 1:22:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 1:22:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d51b26d4 and exiting
+Dec 26, 2022 1:22:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 1:22:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d568ff55 and exiting
+Dec 26, 2022 1:22:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 1:22:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d545eff3 and exiting
+Dec 26, 2022 1:22:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:22:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:22:28 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 1:22:28 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d553c870 and exiting
+Dec 26, 2022 1:23:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:23:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 1:23:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8090
+Dec 26, 2022 1:23:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:23:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8090
+Dec 26, 2022 1:25:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 1:25:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@101a063a and exiting
+Dec 26, 2022 1:25:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 1:25:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1068debb and exiting
+Dec 26, 2022 1:25:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1076b738 and exiting
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1076b738 and exiting
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 1:25:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1044cfb9 and exiting
+Dec 26, 2022 1:25:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 1:25:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1052a836 and exiting
+Dec 26, 2022 1:25:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 1:25:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@106078b7 and exiting
+Dec 26, 2022 1:25:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:48 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 1:25:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@10ae9134 and exiting
+Dec 26, 2022 1:25:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:25:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:25:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 1:25:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@11e55c5e and exiting
+Dec 26, 2022 1:26:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 1:26:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@76b16379 and exiting
+Dec 26, 2022 1:26:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 1:26:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@76bf3bf6 and exiting
+Dec 26, 2022 1:26:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@768d5477 and exiting
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@768d5477 and exiting
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 1:26:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@769b24f4 and exiting
+Dec 26, 2022 1:26:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@77d1301e and exiting
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@77d1301e and exiting
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 1:26:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@77df089f and exiting
+Dec 26, 2022 1:26:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:26:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:26:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 1:26:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@782dd91c and exiting
+Dec 26, 2022 1:27:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 1:27:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 1:27:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 1:27:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@d908fef8 and exiting
+Dec 26, 2022 6:07:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:07:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 6:08:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3b7d8141 and exiting
+Dec 26, 2022 6:08:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 6:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3b5a723f and exiting
+Dec 26, 2022 6:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:29 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 6:08:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3c9e4dc6 and exiting
+Dec 26, 2022 6:08:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 6:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3cf9fec4 and exiting
+Dec 26, 2022 6:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:33 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 6:08:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3cd6efe2 and exiting
+Dec 26, 2022 6:08:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 6:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3d24c863 and exiting
+Dec 26, 2022 6:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 6:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3d40b161 and exiting
+Dec 26, 2022 6:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 6:08:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3d0e89de and exiting
+Dec 26, 2022 6:08:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:08:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:08:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 6:08:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@3e5364e9 and exiting
+Dec 26, 2022 6:09:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:09:27 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:10:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 6:11:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f4f86bdb and exiting
+Dec 26, 2022 6:11:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 6:11:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f4d414d9 and exiting
+Dec 26, 2022 6:11:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 6:11:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f53005d7 and exiting
+Dec 26, 2022 6:11:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 6:11:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f50cb6d5 and exiting
+Dec 26, 2022 6:11:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 6:11:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f650d1fc and exiting
+Dec 26, 2022 6:11:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 6:11:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f6ac82fa and exiting
+Dec 26, 2022 6:11:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 6:11:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f68973f8 and exiting
+Dec 26, 2022 6:11:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 6:11:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f6974c79 and exiting
+Dec 26, 2022 6:11:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8040
+Dec 26, 2022 6:11:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 6:11:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f6f2f577 and exiting
+Dec 26, 2022 6:11:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:11:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 6:11:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@fd4df8ff and exiting
+Dec 26, 2022 6:11:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:11:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 6:11:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@fdaae9fd and exiting
+Dec 26, 2022 6:11:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:11:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 6:11:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@fdb8c27a and exiting
+Dec 26, 2022 6:11:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:11:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:11:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 6:11:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@fd94b378 and exiting
+Dec 26, 2022 6:12:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:12:00 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:12:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 6:12:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5c8b3e3d and exiting
+Dec 26, 2022 6:12:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:12:02 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:12:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 6:12:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5ce72f3b and exiting
+Dec 26, 2022 6:12:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:12:04 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:12:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 6:12:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5cf507b8 and exiting
+Dec 26, 2022 6:12:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:12:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:12:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 6:12:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5cc3e039 and exiting
+Dec 26, 2022 6:12:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:12:06 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:12:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 6:12:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5cdfc937 and exiting
+Dec 26, 2022 6:12:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:12:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 6:13:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 6:13:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@c9f538fc and exiting
+Dec 26, 2022 6:13:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:35 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 6:13:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@c9d129fa and exiting
+Dec 26, 2022 6:13:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:37 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 6:13:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@c9df027b and exiting
+Dec 26, 2022 6:13:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 6:13:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb63de22 and exiting
+Dec 26, 2022 6:13:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 6:13:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb71b6a3 and exiting
+Dec 26, 2022 6:13:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 6:13:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb7fcf20 and exiting
+Dec 26, 2022 6:13:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 6:13:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb4da7a1 and exiting
+Dec 26, 2022 6:13:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 6:13:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb5b801e and exiting
+Dec 26, 2022 6:13:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:13:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:13:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 6:13:46 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cbb8691c and exiting
+Dec 26, 2022 6:14:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 6:14:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 6:14:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 6:14:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@2ce26779 and exiting
+Dec 26, 2022 6:30:15 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: making to hasleader
+Dec 26, 2022 6:30:15 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: making to hasleader
+Dec 26, 2022 7:23:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 7:23:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 7:23:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: success!
+Dec 26, 2022 7:23:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@9fccfbcd and exiting
+Dec 26, 2022 7:31:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 7:31:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 7:31:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: success!
+Dec 26, 2022 7:31:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@5dbc7128 and exiting
+Dec 26, 2022 7:31:57 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:32:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 7:32:32 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 7:32:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: success!
+Dec 26, 2022 7:32:34 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@c8eaa24b and exiting
+Dec 26, 2022 7:33:08 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:09 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:10 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:11 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:12 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:12 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:13 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:33:14 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:23 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:25 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:26 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:27 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:33 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:34 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:35 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:36 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 7:36:37 PM edu.yu.cs.com3800.stage5.GatewayServer$LogHandler handle
+INFO: successful server experience, hope you enjoyed!
+Dec 26, 2022 9:32:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:08 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:32:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@eed23622 and exiting
+Dec 26, 2022 9:32:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:10 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:32:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ef2e2720 and exiting
+Dec 26, 2022 9:32:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:32:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ef0ad81e and exiting
+Dec 26, 2022 9:32:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:32:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ef66c11c and exiting
+Dec 26, 2022 9:32:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 9:32:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ef42b21a and exiting
+Dec 26, 2022 9:32:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f0868d25 and exiting
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f0868d25 and exiting
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 9:32:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f09565c2 and exiting
+Dec 26, 2022 9:32:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:32:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:32:23 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 9:32:23 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@f0f116c0 and exiting
+Dec 26, 2022 9:33:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:33:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:34:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:34:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:36:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:36:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:37:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:37:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:39 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:39:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb66928d and exiting
+Dec 26, 2022 9:39:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:41 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:39:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb43438b and exiting
+Dec 26, 2022 9:39:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:39:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb5f3489 and exiting
+Dec 26, 2022 9:39:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:39:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cbbbdd87 and exiting
+Dec 26, 2022 9:39:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 9:39:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cb97ce85 and exiting
+Dec 26, 2022 9:39:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 9:39:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cccdd12f and exiting
+Dec 26, 2022 9:39:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 9:39:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cd29822d and exiting
+Dec 26, 2022 9:39:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 9:39:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cd385aaa and exiting
+Dec 26, 2022 9:39:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:39:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:39:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 9:39:54 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@cd06732b and exiting
+Dec 26, 2022 9:40:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:36 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:40:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b76ebb9b and exiting
+Dec 26, 2022 9:40:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:40:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b8b296c2 and exiting
+Dec 26, 2022 9:40:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:40 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:40:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b88e87c0 and exiting
+Dec 26, 2022 9:40:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:40:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b8eb70be and exiting
+Dec 26, 2022 9:40:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:44 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 9:40:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b8f9493f and exiting
+Dec 26, 2022 9:40:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 9:40:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b8d4fa3d and exiting
+Dec 26, 2022 9:40:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 9:40:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@b931eb3b and exiting
+Dec 26, 2022 9:40:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 9:40:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ba67ee45 and exiting
+Dec 26, 2022 9:40:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:40:50 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:40:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 9:40:52 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ba439f63 and exiting
+Dec 26, 2022 9:41:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:41:38 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:42:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:42:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:42:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:43:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@e9509360 and exiting
+Dec 26, 2022 9:43:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:43:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@e9ad445e and exiting
+Dec 26, 2022 9:43:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:03 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:43:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@e9892d5c and exiting
+Dec 26, 2022 9:43:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:05 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:43:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@e9e5de5a and exiting
+Dec 26, 2022 9:43:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:07 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 9:43:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@ea01cf58 and exiting
+Dec 26, 2022 9:43:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:09 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 9:43:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@eb05aa83 and exiting
+Dec 26, 2022 9:43:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:11 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 9:43:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@eb625b81 and exiting
+Dec 26, 2022 9:43:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:13 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 9:43:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@eb7073fe and exiting
+Dec 26, 2022 9:43:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:43:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:43:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 9:43:15 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@eb7e4c7f and exiting
+Dec 26, 2022 9:44:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:44:01 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:47:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:47:43 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:47:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:47:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@8fe10744 and exiting
+Dec 26, 2022 9:47:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:47:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:47:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:47:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@903db862 and exiting
+Dec 26, 2022 9:47:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:47:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:47:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:47:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@9019a160 and exiting
+Dec 26, 2022 9:47:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:47:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:47:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:47:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@915d846b and exiting
+Dec 26, 2022 9:47:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:47:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:47:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 4";
+    }
+}
+
+Dec 26, 2022 9:47:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@91b9c533 and exiting
+Dec 26, 2022 9:47:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:47:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8050
+Dec 26, 2022 9:52:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:52:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1793321c and exiting
+Dec 26, 2022 9:52:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:52:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@17efe31a and exiting
+Dec 26, 2022 9:52:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:16 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:52:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@17cbd418 and exiting
+Dec 26, 2022 9:52:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:52:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@17d9ac99 and exiting
+Dec 26, 2022 9:52:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:19 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 9:52:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@191d87c0 and exiting
+Dec 26, 2022 9:52:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:21 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:23 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 9:52:23 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@197a70be and exiting
+Dec 26, 2022 9:52:23 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:23 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@1948493f and exiting
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 9:52:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@195621bc and exiting
+Dec 26, 2022 9:52:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:52:25 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:52:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 9:52:26 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@19a3fa3d and exiting
+Dec 26, 2022 9:53:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:53:12 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:55:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:14 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:55:31 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:42 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 0
+Dec 26, 2022 9:56:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bc44c502 and exiting
+Dec 26, 2022 9:56:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 1
+Dec 26, 2022 9:56:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bc607600 and exiting
+Dec 26, 2022 9:56:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 2
+Dec 26, 2022 9:56:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bcbd66fe and exiting
+Dec 26, 2022 9:56:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:49 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 3
+Dec 26, 2022 9:56:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@be014289 and exiting
+Dec 26, 2022 9:56:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:51 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 4
+Dec 26, 2022 9:56:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@bddd3387 and exiting
+Dec 26, 2022 9:56:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:53 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 5
+Dec 26, 2022 9:56:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@be39e485 and exiting
+Dec 26, 2022 9:56:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:55 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 6
+Dec 26, 2022 9:56:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@be07b522 and exiting
+Dec 26, 2022 9:56:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:56 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 7
+Dec 26, 2022 9:56:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@be15cda3 and exiting
+Dec 26, 2022 9:56:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:56:57 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:56:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: Hello world! from code version 8
+Dec 26, 2022 9:56:59 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@be717ea1 and exiting
+Dec 26, 2022 9:57:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:57:45 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8070
+Dec 26, 2022 9:58:22 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060
+Dec 26, 2022 9:58:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: recieved message: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 0";
+    }
+}
+
+Dec 26, 2022 9:58:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+SEVERE: sent message back to com.sun.net.httpserver.Headers@8c62ac0c and exiting
+Dec 26, 2022 9:58:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+FINE: accepted http connection: com.sun.net.httpserver.Headers@0
+Dec 26, 2022 9:58:47 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler contactLeader
+FINE: sending message to leader at port: 8060

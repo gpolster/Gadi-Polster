@@ -1,0 +1,796 @@
+Dec 25, 2022 8:55:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 25, 2022 8:55:38 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 25, 2022 8:55:39 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 25, 2022 8:55:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 25, 2022 8:55:41 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 25, 2022 8:55:42 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 25, 2022 8:55:43 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 25, 2022 8:55:44 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 25, 2022 8:55:45 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 25, 2022 8:55:46 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 25, 2022 8:55:47 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 25, 2022 8:55:48 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 25, 2022 8:55:49 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 25, 2022 8:55:49 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 25, 2022 8:55:50 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 25, 2022 8:55:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 25, 2022 8:55:51 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 25, 2022 8:55:52 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 25, 2022 8:55:53 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 25, 2022 8:59:11 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 25, 2022 8:59:24 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 25, 2022 8:59:25 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 25, 2022 8:59:26 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 25, 2022 8:59:27 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 25, 2022 8:59:27 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 25, 2022 8:59:28 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 25, 2022 8:59:29 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 25, 2022 8:59:30 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 25, 2022 8:59:31 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 25, 2022 8:59:32 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 25, 2022 8:59:32 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 25, 2022 8:59:34 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 25, 2022 8:59:34 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 25, 2022 8:59:35 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 25, 2022 8:59:36 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 25, 2022 8:59:37 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 25, 2022 8:59:37 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 25, 2022 8:59:38 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 25, 2022 9:01:59 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 25, 2022 9:02:11 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 25, 2022 9:02:13 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 25, 2022 9:02:13 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 25, 2022 9:02:15 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 25, 2022 9:02:15 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 25, 2022 9:02:17 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 25, 2022 9:02:17 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 25, 2022 9:02:18 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 25, 2022 9:02:19 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 25, 2022 9:02:20 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 25, 2022 9:02:20 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 25, 2022 9:02:22 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 25, 2022 9:02:22 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 25, 2022 9:02:23 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 25, 2022 9:02:24 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 25, 2022 9:02:25 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 25, 2022 9:02:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 25, 2022 9:02:26 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 25, 2022 9:03:39 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 25, 2022 9:03:51 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 25, 2022 9:03:53 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 25, 2022 9:03:53 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 25, 2022 9:03:54 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 25, 2022 9:03:55 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 25, 2022 9:03:56 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 25, 2022 9:03:56 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 25, 2022 9:03:58 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 25, 2022 9:03:58 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 25, 2022 9:04:00 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 25, 2022 9:04:00 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 25, 2022 9:04:01 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 25, 2022 9:04:02 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 25, 2022 9:04:03 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 25, 2022 9:04:03 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 25, 2022 9:04:04 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 25, 2022 9:04:05 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 25, 2022 9:04:06 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 25, 2022 9:06:33 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 25, 2022 9:06:46 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 25, 2022 9:06:47 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 25, 2022 9:06:48 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 25, 2022 9:06:49 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 25, 2022 9:06:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 25, 2022 9:06:51 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 25, 2022 9:06:52 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 25, 2022 9:06:53 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 25, 2022 9:06:53 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 25, 2022 9:06:55 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 25, 2022 9:06:55 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 25, 2022 9:06:56 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 25, 2022 9:06:56 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 25, 2022 9:06:57 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 25, 2022 9:06:58 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 25, 2022 9:06:59 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 25, 2022 9:06:59 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 25, 2022 9:07:00 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 25, 2022 11:03:46 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 11:30:19 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 11:30:32 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 11:30:33 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 11:30:34 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 11:30:35 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 11:30:36 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 11:30:37 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 11:30:38 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 11:30:40 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 11:30:40 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 11:30:42 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 11:30:42 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 11:30:43 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 11:30:43 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 11:30:44 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 11:30:45 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 11:30:46 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 11:30:46 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 11:30:47 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 11:35:19 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 11:35:31 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 11:35:33 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 11:35:34 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 11:35:35 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 11:35:36 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 11:35:37 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 11:35:37 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 11:35:39 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 11:35:39 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 11:35:41 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 11:35:41 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 11:35:43 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 11:35:44 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 11:35:45 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 11:35:45 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 11:35:46 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 11:38:34 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 11:38:39 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 11:38:40 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 11:38:41 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 11:38:42 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 11:38:44 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 11:38:44 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 11:38:46 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 11:38:46 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 11:38:48 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 11:38:48 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 11:38:50 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 11:38:50 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 11:38:51 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 11:38:51 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 11:38:52 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 11:38:52 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 11:38:53 AM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 12:59:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 12:59:52 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 12:59:54 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 12:59:54 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 12:59:56 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 12:59:56 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 12:59:57 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 12:59:58 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 12:59:59 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 1:00:00 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 1:00:02 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 1:00:02 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 1:00:04 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 1:00:04 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 1:00:05 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 1:00:05 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 1:00:06 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 1:00:07 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 1:00:07 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 1:21:57 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 1:22:12 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 1:22:14 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 1:22:14 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 1:22:16 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 1:22:16 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 1:22:17 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 1:22:18 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 1:22:19 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 1:22:20 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 1:22:21 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 1:22:22 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 1:22:23 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 1:22:24 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 1:22:25 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 1:22:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 1:22:26 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 1:22:27 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 1:22:28 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 2:32:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 2:33:35 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 2:37:48 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 2:54:41 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 3:50:57 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 5:49:07 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:01:24 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:02:47 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:07:43 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:07:51 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 6:08:20 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:08:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 6:08:27 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 6:08:27 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 6:08:29 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 6:08:29 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 6:08:31 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 6:08:31 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 6:08:33 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 6:08:33 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 6:08:35 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 6:08:35 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 6:08:36 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 6:08:36 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 6:08:37 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 6:08:38 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 6:08:39 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 6:08:39 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 6:08:40 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 6:11:45 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:11:53 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 6:11:54 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 6:11:54 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 6:11:56 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 6:11:56 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 6:11:57 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 6:11:57 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 6:11:59 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 6:12:00 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 6:12:01 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 6:12:02 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 6:12:03 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 6:12:04 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 6:12:05 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 6:12:05 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 6:12:06 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 6:12:06 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 6:12:07 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 6:15:22 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:18:11 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:20:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:21:45 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 6:30:10 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:07:51 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:10:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:18:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:20:30 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:22:21 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:23:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:23:54 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 7:23:56 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 7:31:04 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:31:14 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 7:31:15 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 7:32:10 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 7:32:32 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 7:32:34 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 7:33:13 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:31:15 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:32:00 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:32:08 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:32:09 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 9:32:10 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 9:32:11 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 9:32:12 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 9:32:13 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 9:32:14 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 9:32:15 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 9:32:16 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 9:32:17 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 9:32:18 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 9:32:19 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 9:32:20 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 9:32:21 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 9:32:21 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 9:32:22 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 9:34:53 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:36:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:36:41 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:37:33 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:39:27 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:39:39 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:39:41 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 9:39:41 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 9:39:43 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 9:39:43 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 9:39:45 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 9:39:45 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 9:39:47 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 9:39:47 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 9:39:49 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 9:39:49 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 9:39:50 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 9:39:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 9:39:51 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 9:39:52 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 9:39:53 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 9:39:53 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 9:39:54 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 9:40:23 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:40:36 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:40:38 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 9:40:38 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 9:40:40 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 9:40:40 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 9:40:42 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 9:40:42 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 9:40:44 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 9:40:44 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 9:40:45 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 9:40:45 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 9:40:47 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 9:40:47 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 9:40:48 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 9:40:49 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 9:40:50 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 9:40:50 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 9:40:51 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 9:42:47 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:42:59 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:43:01 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 9:43:01 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 9:43:03 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 9:43:03 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 9:43:04 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 9:43:05 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 9:43:07 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 9:43:07 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 9:43:09 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 9:43:09 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 9:43:11 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 9:43:11 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 9:43:12 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 9:43:13 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 9:43:14 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 9:43:14 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 9:43:15 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 9:52:00 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:52:12 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:52:14 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 9:52:14 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 9:52:16 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 9:52:16 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 9:52:18 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 9:52:18 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 9:52:19 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 9:52:19 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 9:52:21 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 9:52:21 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 9:52:23 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 9:52:23 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 9:52:24 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 9:52:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 9:52:25 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8
+Dec 26, 2022 9:55:25 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:56:30 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: round robin started with port 8072
+Dec 26, 2022 9:56:43 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 0 to port 80102
+Dec 26, 2022 9:56:44 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 0
+Dec 26, 2022 9:56:45 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 1 to port 80202
+Dec 26, 2022 9:56:46 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 1
+Dec 26, 2022 9:56:47 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 2 to port 80302
+Dec 26, 2022 9:56:48 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 2
+Dec 26, 2022 9:56:49 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 3 to port 80402
+Dec 26, 2022 9:56:50 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 3
+Dec 26, 2022 9:56:51 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 4 to port 80502
+Dec 26, 2022 9:56:52 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 4
+Dec 26, 2022 9:56:53 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 5 to port 80602
+Dec 26, 2022 9:56:54 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 5
+Dec 26, 2022 9:56:55 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 6 to port 80102
+Dec 26, 2022 9:56:55 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 6
+Dec 26, 2022 9:56:56 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 7 to port 80202
+Dec 26, 2022 9:56:57 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 7
+Dec 26, 2022 9:56:57 PM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: sending message with request ID: 8 to port 80302
+Dec 26, 2022 9:56:58 PM edu.yu.cs.com3800.stage5.TCPClient run
+INFO: sent out message with ID 8

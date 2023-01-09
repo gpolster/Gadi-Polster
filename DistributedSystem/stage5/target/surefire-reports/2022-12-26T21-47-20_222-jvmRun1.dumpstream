@@ -1,0 +1,1713 @@
+# Created at 2022-12-26T21:47:21.792
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:21.801
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:21.814
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 0'.
+
+# Created at 2022-12-26T21:47:22.390
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:22.399
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:22.413
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 1'.
+
+# Created at 2022-12-26T21:47:22.974
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:22.984
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:22.997
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 2'.
+
+# Created at 2022-12-26T21:47:23.559
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:23.569
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:23.581
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 3'.
+
+# Created at 2022-12-26T21:47:24.139
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:24.149
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:24.163
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 4'.
+
+# Created at 2022-12-26T21:47:24.722
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:24.731
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:24.743
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 5'.
+
+# Created at 2022-12-26T21:47:25.309
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:25.318
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:25.329
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 6'.
+
+# Created at 2022-12-26T21:47:25.882
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'creating serverrunner'.
+
+# Created at 2022-12-26T21:47:25.890
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Hello, World!'.
+
+# Created at 2022-12-26T21:47:25.901
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'hello 7'.
+
+# Created at 2022-12-26T21:47:25.901
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'should create gateway'.
+
+# Created at 2022-12-26T21:47:25.995
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:25.996
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'gateway created'.
+
+# Created at 2022-12-26T21:47:26.012
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:26.035
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:26.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:26.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:26.061
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:26.071
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:26.098
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:26.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'peerServer created'.
+
+# Created at 2022-12-26T21:47:26.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:26.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:26.161
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:26.180
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:26.206
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'looking for leader'.
+
+# Created at 2022-12-26T21:47:28.279
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8040 whose ID is 3 has the following ID as its leader: 4 and its state is FOLLOWING'.
+
+# Created at 2022-12-26T21:47:28.281
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8030 whose ID is 2 has the following ID as its leader: 4 and its state is FOLLOWING'.
+
+# Created at 2022-12-26T21:47:28.282
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8050 whose ID is 4 has the following ID as its leader: 4 and its state is LEADING'.
+
+# Created at 2022-12-26T21:47:28.300
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8020 whose ID is 1 has the following ID as its leader: 4 and its state is FOLLOWING'.
+
+# Created at 2022-12-26T21:47:28.312
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8010 whose ID is 0 has the following ID as its leader: 4 and its state is FOLLOWING'.
+
+# Created at 2022-12-26T21:47:28.330
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before take'.
+
+# Created at 2022-12-26T21:47:30.510
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8090 whose ID is 7 has the following ID as its leader: 4 and its state is OBSERVER'.
+
+# Created at 2022-12-26T21:47:33.069
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 2 timestamp:'.
+
+# Created at 2022-12-26T21:47:33.070
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109253058'.
+
+# Created at 2022-12-26T21:47:33.502
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8070 whose ID is 6 has the following ID as its leader: 4 and its state is FOLLOWING'.
+
+# Created at 2022-12-26T21:47:35.574
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 3 timestamp:'.
+
+# Created at 2022-12-26T21:47:35.575
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109255573'.
+
+# Created at 2022-12-26T21:47:35.939
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 3 timestamp:'.
+
+# Created at 2022-12-26T21:47:35.939
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109255933'.
+
+# Created at 2022-12-26T21:47:36.061
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 4 timestamp:'.
+
+# Created at 2022-12-26T21:47:36.062
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109256055'.
+
+# Created at 2022-12-26T21:47:38.397
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 3 timestamp:'.
+
+# Created at 2022-12-26T21:47:38.397
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109258389'.
+
+# Created at 2022-12-26T21:47:38.478
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 3 timestamp:'.
+
+# Created at 2022-12-26T21:47:38.479
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109258471'.
+
+# Created at 2022-12-26T21:47:40.583
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 4 timestamp:'.
+
+# Created at 2022-12-26T21:47:40.584
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109260581'.
+
+# Created at 2022-12-26T21:47:40.902
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 5 timestamp:'.
+
+# Created at 2022-12-26T21:47:40.903
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109260901'.
+
+# Created at 2022-12-26T21:47:41.067
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 5 timestamp:'.
+
+# Created at 2022-12-26T21:47:41.067
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109261065'.
+
+# Created at 2022-12-26T21:47:43.373
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'REQUEST ID 0'.
+
+# Created at 2022-12-26T21:47:43.378
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before send to leader at port 8052'.
+
+# Created at 2022-12-26T21:47:43.381
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after take'.
+
+# Created at 2022-12-26T21:47:43.404
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before take'.
+
+# Created at 2022-12-26T21:47:43.406
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 6 timestamp:'.
+
+# Created at 2022-12-26T21:47:43.406
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109263405'.
+
+# Created at 2022-12-26T21:47:43.482
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 6 timestamp:'.
+
+# Created at 2022-12-26T21:47:43.482
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109263480'.
+
+# Created at 2022-12-26T21:47:43.483
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 7 timestamp:'.
+
+# Created at 2022-12-26T21:47:43.483
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109263480'.
+
+# Created at 2022-12-26T21:47:45.388
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after message recieved back'.
+
+# Created at 2022-12-26T21:47:45.455
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'REQUEST ID 1'.
+
+# Created at 2022-12-26T21:47:45.456
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before send to leader at port 8052'.
+
+# Created at 2022-12-26T21:47:45.457
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after take'.
+
+# Created at 2022-12-26T21:47:45.458
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before take'.
+
+# Created at 2022-12-26T21:47:45.900
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 4 timestamp:'.
+
+# Created at 2022-12-26T21:47:45.900
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109265893'.
+
+# Created at 2022-12-26T21:47:45.951
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 7 timestamp:'.
+
+# Created at 2022-12-26T21:47:45.951
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109265949'.
+
+# Created at 2022-12-26T21:47:46.074
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 6 timestamp:'.
+
+# Created at 2022-12-26T21:47:46.075
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109266073'.
+
+# Created at 2022-12-26T21:47:47.459
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after message recieved back'.
+
+# Created at 2022-12-26T21:47:47.474
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'REQUEST ID 2'.
+
+# Created at 2022-12-26T21:47:47.475
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before send to leader at port 8052'.
+
+# Created at 2022-12-26T21:47:47.476
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after take'.
+
+# Created at 2022-12-26T21:47:47.477
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before take'.
+
+# Created at 2022-12-26T21:47:48.091
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 7 timestamp:'.
+
+# Created at 2022-12-26T21:47:48.092
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109268090'.
+
+# Created at 2022-12-26T21:47:48.406
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 8 timestamp:'.
+
+# Created at 2022-12-26T21:47:48.406
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109268405'.
+
+# Created at 2022-12-26T21:47:49.486
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after message recieved back'.
+
+# Created at 2022-12-26T21:47:49.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'REQUEST ID 3'.
+
+# Created at 2022-12-26T21:47:49.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before send to leader at port 8052'.
+
+# Created at 2022-12-26T21:47:49.502
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after take'.
+
+# Created at 2022-12-26T21:47:49.503
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before take'.
+
+# Created at 2022-12-26T21:47:50.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 8 timestamp:'.
+
+# Created at 2022-12-26T21:47:50.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109270592'.
+
+# Created at 2022-12-26T21:47:51.509
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after message recieved back'.
+
+# Created at 2022-12-26T21:47:51.524
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'REQUEST ID 4'.
+
+# Created at 2022-12-26T21:47:51.524
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before send to leader at port 8052'.
+
+# Created at 2022-12-26T21:47:51.565
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after take'.
+
+# Created at 2022-12-26T21:47:51.565
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before take'.
+
+# Created at 2022-12-26T21:47:53.414
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8040 whose ID is 3 just lost server with ID: 5'.
+
+# Created at 2022-12-26T21:47:53.416
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 10 timestamp:'.
+
+# Created at 2022-12-26T21:47:53.417
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109273415'.
+
+# Created at 2022-12-26T21:47:53.421
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8020 whose ID is 1 just lost server with ID: 5'.
+
+# Created at 2022-12-26T21:47:53.427
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'this peer just died 5'.
+
+# Created at 2022-12-26T21:47:53.433
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8030 whose ID is 2 just lost server with ID: 5'.
+
+# Created at 2022-12-26T21:47:53.437
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'this peer just died 5'.
+
+# Created at 2022-12-26T21:47:53.441
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'this peer just died 5'.
+
+# Created at 2022-12-26T21:47:53.465
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 8 timestamp:'.
+
+# Created at 2022-12-26T21:47:53.465
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109273463'.
+
+# Created at 2022-12-26T21:47:53.469
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8010 whose ID is 0 just lost server with ID: 5'.
+
+# Created at 2022-12-26T21:47:53.472
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'this peer just died 5'.
+
+# Created at 2022-12-26T21:47:53.494
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 10 timestamp:'.
+
+# Created at 2022-12-26T21:47:53.494
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109273493'.
+
+# Created at 2022-12-26T21:47:53.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8050 whose ID is 4 just lost server with ID: 5'.
+
+# Created at 2022-12-26T21:47:53.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'this peer just died 5'.
+
+# Created at 2022-12-26T21:47:53.499
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'request ID 4'.
+
+# Created at 2022-12-26T21:47:53.499
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'entry = Message Type: WORK'.
+
+# Created at 2022-12-26T21:47:53.499
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Sender Host: localhost'.
+
+# Created at 2022-12-26T21:47:53.500
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Sender port: 8052'.
+
+# Created at 2022-12-26T21:47:53.500
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Receiver Host: 0.0.0.0'.
+
+# Created at 2022-12-26T21:47:53.500
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Receiver port: 8092'.
+
+# Created at 2022-12-26T21:47:53.500
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Request ID: 4'.
+
+# Created at 2022-12-26T21:47:53.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Error Occurred: false'.
+
+# Created at 2022-12-26T21:47:53.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Message Contents:'.
+
+# Created at 2022-12-26T21:47:53.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'package edu.yu.cs.fall2019.com3800.stage1;'.
+
+# Created at 2022-12-26T21:47:53.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'public class HelloWorld'.
+
+# Created at 2022-12-26T21:47:53.501
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{'.
+
+# Created at 2022-12-26T21:47:53.502
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'public String run()'.
+
+# Created at 2022-12-26T21:47:53.502
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{'.
+
+# Created at 2022-12-26T21:47:53.502
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'return "Hello world! from code version 4";'.
+
+# Created at 2022-12-26T21:47:53.502
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '}'.
+
+# Created at 2022-12-26T21:47:53.503
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '}'.
+
+# Created at 2022-12-26T21:47:53.503
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '=Socket[addr=/127.0.0.1,port=57757,localport=8052]'.
+
+# Created at 2022-12-26T21:47:53.503
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after take'.
+
+# Created at 2022-12-26T21:47:53.536
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'after message recieved back'.
+
+# Created at 2022-12-26T21:47:53.551
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'REQUEST ID 5'.
+
+# Created at 2022-12-26T21:47:53.552
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'before send to leader at port 8052'.
+
+# Created at 2022-12-26T21:47:54.529
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8060 whose ID is 5 has the following ID as its leader: 4 and its state is FOLLOWING'.
+
+# Created at 2022-12-26T21:47:54.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 9 timestamp:'.
+
+# Created at 2022-12-26T21:47:54.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109274531'.
+
+# Created at 2022-12-26T21:47:55.603
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 11 timestamp:'.
+
+# Created at 2022-12-26T21:47:55.603
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109275602'.
+
+# Created at 2022-12-26T21:47:55.607
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Server on port 8090 whose ID is 7 just lost server with ID: 5'.
+
+# Created at 2022-12-26T21:47:55.612
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'this peer just died 5'.
+
+# Created at 2022-12-26T21:47:55.974
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 10 timestamp:'.
+
+# Created at 2022-12-26T21:47:55.974
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109275973'.
+
+# Created at 2022-12-26T21:47:56.004
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 11 timestamp:'.
+
+# Created at 2022-12-26T21:47:56.005
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109276003'.
+
+# Created at 2022-12-26T21:47:56.078
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 9 timestamp:'.
+
+# Created at 2022-12-26T21:47:56.079
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109276077'.
+
+# Created at 2022-12-26T21:47:58.116
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 12 timestamp:'.
+
+# Created at 2022-12-26T21:47:58.116
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109278115'.
+
+# Created at 2022-12-26T21:47:58.432
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 11 timestamp:'.
+
+# Created at 2022-12-26T21:47:58.433
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109278431'.
+
+# Created at 2022-12-26T21:47:58.446
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 12 timestamp:'.
+
+# Created at 2022-12-26T21:47:58.446
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109278445'.
+
+# Created at 2022-12-26T21:48:00.934
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 13 timestamp:'.
+
+# Created at 2022-12-26T21:48:00.935
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109280932'.
+
+# Created at 2022-12-26T21:48:00.977
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 11 timestamp:'.
+
+# Created at 2022-12-26T21:48:00.978
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109280975'.
+
+# Created at 2022-12-26T21:48:00.978
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 12 timestamp:'.
+
+# Created at 2022-12-26T21:48:00.978
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109280975'.
+
+# Created at 2022-12-26T21:48:01.010
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 13 timestamp:'.
+
+# Created at 2022-12-26T21:48:01.010
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109281007'.
+
+# Created at 2022-12-26T21:48:01.087
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 12 timestamp:'.
+
+# Created at 2022-12-26T21:48:01.087
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109281085'.
+
+# Created at 2022-12-26T21:48:03.123
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 14 timestamp:'.
+
+# Created at 2022-12-26T21:48:03.123
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109283121'.
+
+# Created at 2022-12-26T21:48:03.436
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 14 timestamp:'.
+
+# Created at 2022-12-26T21:48:03.436
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109283435'.
+
+# Created at 2022-12-26T21:48:05.941
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 15 timestamp:'.
+
+# Created at 2022-12-26T21:48:05.941
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109285940'.
+
+# Created at 2022-12-26T21:48:05.955
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 15 timestamp:'.
+
+# Created at 2022-12-26T21:48:05.956
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109285954'.
+
+# Created at 2022-12-26T21:48:05.982
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 13 timestamp:'.
+
+# Created at 2022-12-26T21:48:05.982
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109285981'.
+
+# Created at 2022-12-26T21:48:05.983
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 14 timestamp:'.
+
+# Created at 2022-12-26T21:48:05.983
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109285981'.
+
+# Created at 2022-12-26T21:48:07.110
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 12 timestamp:'.
+
+# Created at 2022-12-26T21:48:07.111
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109287108'.
+
+# Created at 2022-12-26T21:48:08.448
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 16 timestamp:'.
+
+# Created at 2022-12-26T21:48:08.449
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109288447'.
+
+# Created at 2022-12-26T21:48:08.522
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 17 timestamp:'.
+
+# Created at 2022-12-26T21:48:08.522
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109288521'.
+
+# Created at 2022-12-26T21:48:08.593
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 14 timestamp:'.
+
+# Created at 2022-12-26T21:48:08.594
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109288592'.
+
+# Created at 2022-12-26T21:48:10.953
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 17 timestamp:'.
+
+# Created at 2022-12-26T21:48:10.953
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109290952'.
+
+# Created at 2022-12-26T21:48:11.096
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 15 timestamp:'.
+
+# Created at 2022-12-26T21:48:11.097
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109291095'.
+
+# Created at 2022-12-26T21:48:11.098
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 17 timestamp:'.
+
+# Created at 2022-12-26T21:48:11.098
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109291095'.
+
+# Created at 2022-12-26T21:48:13.136
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 17 timestamp:'.
+
+# Created at 2022-12-26T21:48:13.137
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109293135'.
+
+# Created at 2022-12-26T21:48:13.137
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 18 timestamp:'.
+
+# Created at 2022-12-26T21:48:13.137
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109293135'.
+
+# Created at 2022-12-26T21:48:13.487
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 17 timestamp:'.
+
+# Created at 2022-12-26T21:48:13.488
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109293486'.
+
+# Created at 2022-12-26T21:48:13.603
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 18 timestamp:'.
+
+# Created at 2022-12-26T21:48:13.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109293602'.
+
+# Created at 2022-12-26T21:48:13.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 19 timestamp:'.
+
+# Created at 2022-12-26T21:48:13.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109293602'.
+
+# Created at 2022-12-26T21:48:14.613
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 19 timestamp:'.
+
+# Created at 2022-12-26T21:48:14.613
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109294612'.
+
+# Created at 2022-12-26T21:48:15.972
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 17 timestamp:'.
+
+# Created at 2022-12-26T21:48:15.972
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109295971'.
+
+# Created at 2022-12-26T21:48:15.989
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 20 timestamp:'.
+
+# Created at 2022-12-26T21:48:15.990
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109295988'.
+
+# Created at 2022-12-26T21:48:16.027
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 18 timestamp:'.
+
+# Created at 2022-12-26T21:48:16.027
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109296026'.
+
+# Created at 2022-12-26T21:48:18.144
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 19 timestamp:'.
+
+# Created at 2022-12-26T21:48:18.145
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109298143'.
+
+# Created at 2022-12-26T21:48:18.459
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 20 timestamp:'.
+
+# Created at 2022-12-26T21:48:18.459
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109298458'.
+
+# Created at 2022-12-26T21:48:18.495
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 21 timestamp:'.
+
+# Created at 2022-12-26T21:48:18.495
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109298494'.
+
+# Created at 2022-12-26T21:48:18.534
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 19 timestamp:'.
+
+# Created at 2022-12-26T21:48:18.534
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109298532'.
+
+# Created at 2022-12-26T21:48:20.645
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 20 timestamp:'.
+
+# Created at 2022-12-26T21:48:20.646
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109300644'.
+
+# Created at 2022-12-26T21:48:20.960
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 21 timestamp:'.
+
+# Created at 2022-12-26T21:48:20.961
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109300959'.
+
+# Created at 2022-12-26T21:48:23.462
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 22 timestamp:'.
+
+# Created at 2022-12-26T21:48:23.462
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109303460'.
+
+# Created at 2022-12-26T21:48:23.617
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 22 timestamp:'.
+
+# Created at 2022-12-26T21:48:23.617
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109303615'.
+
+# Created at 2022-12-26T21:48:25.965
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 23 timestamp:'.
+
+# Created at 2022-12-26T21:48:25.966
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109305964'.
+
+# Created at 2022-12-26T21:48:25.979
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 21 timestamp:'.
+
+# Created at 2022-12-26T21:48:25.979
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109305978'.
+
+# Created at 2022-12-26T21:48:25.980
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 23 timestamp:'.
+
+# Created at 2022-12-26T21:48:25.980
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109305978'.
+
+# Created at 2022-12-26T21:48:26.010
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 22 timestamp:'.
+
+# Created at 2022-12-26T21:48:26.011
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109306009'.
+
+# Created at 2022-12-26T21:48:26.122
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 24 timestamp:'.
+
+# Created at 2022-12-26T21:48:26.122
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109306121'.
+
+# Created at 2022-12-26T21:48:28.149
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 22 timestamp:'.
+
+# Created at 2022-12-26T21:48:28.150
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109308148'.
+
+# Created at 2022-12-26T21:48:28.150
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 24 timestamp:'.
+
+# Created at 2022-12-26T21:48:28.150
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109308148'.
+
+# Created at 2022-12-26T21:48:28.540
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 24 timestamp:'.
+
+# Created at 2022-12-26T21:48:28.540
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109308539'.
+
+# Created at 2022-12-26T21:48:28.541
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 25 timestamp:'.
+
+# Created at 2022-12-26T21:48:28.541
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109308539'.
+
+# Created at 2022-12-26T21:48:30.971
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 25 timestamp:'.
+
+# Created at 2022-12-26T21:48:30.972
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109310970'.
+
+# Created at 2022-12-26T21:48:31.125
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 25 timestamp:'.
+
+# Created at 2022-12-26T21:48:31.125
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109311123'.
+
+# Created at 2022-12-26T21:48:31.125
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 26 timestamp:'.
+
+# Created at 2022-12-26T21:48:31.126
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109311123'.
+
+# Created at 2022-12-26T21:48:33.156
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 26 timestamp:'.
+
+# Created at 2022-12-26T21:48:33.157
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109313155'.
+
+# Created at 2022-12-26T21:48:33.545
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 26 timestamp:'.
+
+# Created at 2022-12-26T21:48:33.545
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109313544'.
+
+# Created at 2022-12-26T21:48:33.545
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 27 timestamp:'.
+
+# Created at 2022-12-26T21:48:33.546
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109313544'.
+
+# Created at 2022-12-26T21:48:33.628
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 27 timestamp:'.
+
+# Created at 2022-12-26T21:48:33.628
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109313625'.
+
+# Created at 2022-12-26T21:48:35.991
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 26 timestamp:'.
+
+# Created at 2022-12-26T21:48:35.991
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109315990'.
+
+# Created at 2022-12-26T21:48:36.015
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 27 timestamp:'.
+
+# Created at 2022-12-26T21:48:36.015
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109316014'.
+
+# Created at 2022-12-26T21:48:37.141
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 27 timestamp:'.
+
+# Created at 2022-12-26T21:48:37.142
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109317140'.
+
+# Created at 2022-12-26T21:48:38.162
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 28 timestamp:'.
+
+# Created at 2022-12-26T21:48:38.163
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109318161'.
+
+# Created at 2022-12-26T21:48:38.496
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 27 timestamp:'.
+
+# Created at 2022-12-26T21:48:38.496
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109318495'.
+
+# Created at 2022-12-26T21:48:38.549
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 28 timestamp:'.
+
+# Created at 2022-12-26T21:48:38.549
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109318548'.
+
+# Created at 2022-12-26T21:48:38.634
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 28 timestamp:'.
+
+# Created at 2022-12-26T21:48:38.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109318633'.
+
+# Created at 2022-12-26T21:48:40.984
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 29 timestamp:'.
+
+# Created at 2022-12-26T21:48:40.984
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109320983'.
+
+# Created at 2022-12-26T21:48:40.997
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 28 timestamp:'.
+
+# Created at 2022-12-26T21:48:40.997
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109320996'.
+
+# Created at 2022-12-26T21:48:41.021
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 30 timestamp:'.
+
+# Created at 2022-12-26T21:48:41.021
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109321020'.
+
+# Created at 2022-12-26T21:48:43.171
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 29 timestamp:'.
+
+# Created at 2022-12-26T21:48:43.171
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109323170'.
+
+# Created at 2022-12-26T21:48:43.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 30 timestamp:'.
+
+# Created at 2022-12-26T21:48:43.498
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109323497'.
+
+# Created at 2022-12-26T21:48:43.557
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 29 timestamp:'.
+
+# Created at 2022-12-26T21:48:43.557
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109323555'.
+
+# Created at 2022-12-26T21:48:43.639
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 31 timestamp:'.
+
+# Created at 2022-12-26T21:48:43.640
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109323638'.
+
+# Created at 2022-12-26T21:48:45.991
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 30 timestamp:'.
+
+# Created at 2022-12-26T21:48:45.991
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109325990'.
+
+# Created at 2022-12-26T21:48:46.026
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 31 timestamp:'.
+
+# Created at 2022-12-26T21:48:46.027
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109326025'.
+
+# Created at 2022-12-26T21:48:48.176
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 30 timestamp:'.
+
+# Created at 2022-12-26T21:48:48.176
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109328175'.
+
+# Created at 2022-12-26T21:48:48.177
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 32 timestamp:'.
+
+# Created at 2022-12-26T21:48:48.177
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109328175'.
+
+# Created at 2022-12-26T21:48:48.505
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 31 timestamp:'.
+
+# Created at 2022-12-26T21:48:48.505
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109328504'.
+
+# Created at 2022-12-26T21:48:48.528
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 33 timestamp:'.
+
+# Created at 2022-12-26T21:48:48.528
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109328526'.
+
+# Created at 2022-12-26T21:48:48.559
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 30 timestamp:'.
+
+# Created at 2022-12-26T21:48:48.560
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109328558'.
+
+# Created at 2022-12-26T21:48:50.995
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 33 timestamp:'.
+
+# Created at 2022-12-26T21:48:50.996
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109330995'.
+
+# Created at 2022-12-26T21:48:51.007
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 33 timestamp:'.
+
+# Created at 2022-12-26T21:48:51.007
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109331006'.
+
+# Created at 2022-12-26T21:48:51.034
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 34 timestamp:'.
+
+# Created at 2022-12-26T21:48:51.034
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109331031'.
+
+# Created at 2022-12-26T21:48:51.060
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 34 timestamp:'.
+
+# Created at 2022-12-26T21:48:51.061
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109331060'.
+
+# Created at 2022-12-26T21:48:51.145
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 34 timestamp:'.
+
+# Created at 2022-12-26T21:48:51.145
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109331144'.
+
+# Created at 2022-12-26T21:48:53.183
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 34 timestamp:'.
+
+# Created at 2022-12-26T21:48:53.183
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109333182'.
+
+# Created at 2022-12-26T21:48:53.539
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 35 timestamp:'.
+
+# Created at 2022-12-26T21:48:53.540
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109333538'.
+
+# Created at 2022-12-26T21:48:53.649
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 35 timestamp:'.
+
+# Created at 2022-12-26T21:48:53.649
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109333648'.
+
+# Created at 2022-12-26T21:48:55.998
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 35 timestamp:'.
+
+# Created at 2022-12-26T21:48:55.998
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109335997'.
+
+# Created at 2022-12-26T21:48:56.010
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 34 timestamp:'.
+
+# Created at 2022-12-26T21:48:56.010
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109336009'.
+
+# Created at 2022-12-26T21:48:58.191
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 35 timestamp:'.
+
+# Created at 2022-12-26T21:48:58.192
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109338190'.
+
+# Created at 2022-12-26T21:48:58.516
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 36 timestamp:'.
+
+# Created at 2022-12-26T21:48:58.516
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109338515'.
+
+# Created at 2022-12-26T21:48:58.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 37 timestamp:'.
+
+# Created at 2022-12-26T21:48:58.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109338542'.
+
+# Created at 2022-12-26T21:48:58.571
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 37 timestamp:'.
+
+# Created at 2022-12-26T21:48:58.571
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109338570'.
+
+# Created at 2022-12-26T21:49:00.692
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 37 timestamp:'.
+
+# Created at 2022-12-26T21:49:00.693
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109340691'.
+
+# Created at 2022-12-26T21:49:02.165
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 35 timestamp:'.
+
+# Created at 2022-12-26T21:49:02.165
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109342163'.
+
+# Created at 2022-12-26T21:49:03.523
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 38 timestamp:'.
+
+# Created at 2022-12-26T21:49:03.523
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109343522'.
+
+# Created at 2022-12-26T21:49:03.663
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 39 timestamp:'.
+
+# Created at 2022-12-26T21:49:03.663
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109343662'.
+
+# Created at 2022-12-26T21:49:06.012
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 37 timestamp:'.
+
+# Created at 2022-12-26T21:49:06.012
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109346011'.
+
+# Created at 2022-12-26T21:49:06.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 39 timestamp:'.
+
+# Created at 2022-12-26T21:49:06.085
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109346083'.
+
+# Created at 2022-12-26T21:49:08.513
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 40 timestamp:'.
+
+# Created at 2022-12-26T21:49:08.513
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109348512'.
+
+# Created at 2022-12-26T21:49:08.671
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 41 timestamp:'.
+
+# Created at 2022-12-26T21:49:08.671
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109348670'.
+
+# Created at 2022-12-26T21:49:10.702
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 41 timestamp:'.
+
+# Created at 2022-12-26T21:49:10.702
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109350701'.
+
+# Created at 2022-12-26T21:49:12.175
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 41 timestamp:'.
+
+# Created at 2022-12-26T21:49:12.175
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109352173'.
+
+# Created at 2022-12-26T21:49:13.204
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 42 timestamp:'.
+
+# Created at 2022-12-26T21:49:13.205
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109353203'.
+
+# Created at 2022-12-26T21:49:13.556
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 40 timestamp:'.
+
+# Created at 2022-12-26T21:49:13.556
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109353555'.
+
+# Created at 2022-12-26T21:49:16.025
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 43 timestamp:'.
+
+# Created at 2022-12-26T21:49:16.026
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109356024'.
+
+# Created at 2022-12-26T21:49:16.090
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 43 timestamp:'.
+
+# Created at 2022-12-26T21:49:16.091
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109356088'.
+
+# Created at 2022-12-26T21:49:18.527
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 44 timestamp:'.
+
+# Created at 2022-12-26T21:49:18.528
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109358526'.
+
+# Created at 2022-12-26T21:49:18.536
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 40 timestamp:'.
+
+# Created at 2022-12-26T21:49:18.537
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109358535'.
+
+# Created at 2022-12-26T21:49:18.537
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 41 timestamp:'.
+
+# Created at 2022-12-26T21:49:18.537
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109358535'.
+
+# Created at 2022-12-26T21:49:18.561
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 41 timestamp:'.
+
+# Created at 2022-12-26T21:49:18.561
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109358560'.
+
+# Created at 2022-12-26T21:49:20.714
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 44 timestamp:'.
+
+# Created at 2022-12-26T21:49:20.714
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109360713'.
+
+# Created at 2022-12-26T21:49:21.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 45 timestamp:'.
+
+# Created at 2022-12-26T21:49:21.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109361036'.
+
+# Created at 2022-12-26T21:49:21.066
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 43 timestamp:'.
+
+# Created at 2022-12-26T21:49:21.067
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109361065'.
+
+# Created at 2022-12-26T21:49:21.094
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 44 timestamp:'.
+
+# Created at 2022-12-26T21:49:21.095
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109361093'.
+
+# Created at 2022-12-26T21:49:21.177
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 45 timestamp:'.
+
+# Created at 2022-12-26T21:49:21.178
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109361176'.
+
+# Created at 2022-12-26T21:49:23.536
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 46 timestamp:'.
+
+# Created at 2022-12-26T21:49:23.536
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109363535'.
+
+# Created at 2022-12-26T21:49:23.595
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 45 timestamp:'.
+
+# Created at 2022-12-26T21:49:23.596
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109363595'.
+
+# Created at 2022-12-26T21:49:23.679
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 46 timestamp:'.
+
+# Created at 2022-12-26T21:49:23.679
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109363678'.
+
+# Created at 2022-12-26T21:49:25.716
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 45 timestamp:'.
+
+# Created at 2022-12-26T21:49:25.717
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109365715'.
+
+# Created at 2022-12-26T21:49:26.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 47 timestamp:'.
+
+# Created at 2022-12-26T21:49:26.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109366044'.
+
+# Created at 2022-12-26T21:49:26.073
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 46 timestamp:'.
+
+# Created at 2022-12-26T21:49:26.073
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109366072'.
+
+# Created at 2022-12-26T21:49:26.073
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 48 timestamp:'.
+
+# Created at 2022-12-26T21:49:26.073
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109366072'.
+
+# Created at 2022-12-26T21:49:26.098
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 47 timestamp:'.
+
+# Created at 2022-12-26T21:49:26.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109366097'.
+
+# Created at 2022-12-26T21:49:26.181
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 48 timestamp:'.
+
+# Created at 2022-12-26T21:49:26.182
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109366180'.
+
+# Created at 2022-12-26T21:49:28.539
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 48 timestamp:'.
+
+# Created at 2022-12-26T21:49:28.540
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109368539'.
+
+# Created at 2022-12-26T21:49:28.601
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 48 timestamp:'.
+
+# Created at 2022-12-26T21:49:28.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109368600'.
+
+# Created at 2022-12-26T21:49:28.686
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 49 timestamp:'.
+
+# Created at 2022-12-26T21:49:28.687
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109368686'.
+
+# Created at 2022-12-26T21:49:30.722
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 48 timestamp:'.
+
+# Created at 2022-12-26T21:49:30.722
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109370720'.
+
+# Created at 2022-12-26T21:49:30.722
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 49 timestamp:'.
+
+# Created at 2022-12-26T21:49:30.723
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109370720'.
+
+# Created at 2022-12-26T21:49:31.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 49 timestamp:'.
+
+# Created at 2022-12-26T21:49:31.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109371103'.
+
+# Created at 2022-12-26T21:49:31.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 50 timestamp:'.
+
+# Created at 2022-12-26T21:49:31.104
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109371103'.
+
+# Created at 2022-12-26T21:49:32.196
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 49 timestamp:'.
+
+# Created at 2022-12-26T21:49:32.196
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109372195'.
+
+# Created at 2022-12-26T21:49:35.726
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 51 timestamp:'.
+
+# Created at 2022-12-26T21:49:35.727
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109375725'.
+
+# Created at 2022-12-26T21:49:36.057
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 48 timestamp:'.
+
+# Created at 2022-12-26T21:49:36.057
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109376056'.
+
+# Created at 2022-12-26T21:49:36.076
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 50 timestamp:'.
+
+# Created at 2022-12-26T21:49:36.077
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109376076'.
+
+# Created at 2022-12-26T21:49:36.077
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 51 timestamp:'.
+
+# Created at 2022-12-26T21:49:36.077
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109376076'.
+
+# Created at 2022-12-26T21:49:36.077
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 52 timestamp:'.
+
+# Created at 2022-12-26T21:49:36.078
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109376076'.
+
+# Created at 2022-12-26T21:49:36.198
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 52 timestamp:'.
+
+# Created at 2022-12-26T21:49:36.199
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109376197'.
+
+# Created at 2022-12-26T21:49:37.199
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 52 timestamp:'.
+
+# Created at 2022-12-26T21:49:37.199
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109377197'.
+
+# Created at 2022-12-26T21:49:38.547
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 51 timestamp:'.
+
+# Created at 2022-12-26T21:49:38.547
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109378546'.
+
+# Created at 2022-12-26T21:49:41.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 53 timestamp:'.
+
+# Created at 2022-12-26T21:49:41.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109381048'.
+
+# Created at 2022-12-26T21:49:41.065
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 52 timestamp:'.
+
+# Created at 2022-12-26T21:49:41.065
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109381064'.
+
+# Created at 2022-12-26T21:49:41.081
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 54 timestamp:'.
+
+# Created at 2022-12-26T21:49:41.081
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109381080'.
+
+# Created at 2022-12-26T21:49:41.115
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 52 timestamp:'.
+
+# Created at 2022-12-26T21:49:41.115
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109381114'.
+
+# Created at 2022-12-26T21:49:43.620
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 53 timestamp:'.
+
+# Created at 2022-12-26T21:49:43.621
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109383619'.
+
+# Created at 2022-12-26T21:49:43.709
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 54 timestamp:'.
+
+# Created at 2022-12-26T21:49:43.709
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109383707'.
+
+# Created at 2022-12-26T21:49:45.731
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 54 timestamp:'.
+
+# Created at 2022-12-26T21:49:45.732
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109385731'.
+
+# Created at 2022-12-26T21:49:46.054
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 55 timestamp:'.
+
+# Created at 2022-12-26T21:49:46.054
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109386053'.
+
+# Created at 2022-12-26T21:49:46.071
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 54 timestamp:'.
+
+# Created at 2022-12-26T21:49:46.072
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109386071'.
+
+# Created at 2022-12-26T21:49:46.072
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 55 timestamp:'.
+
+# Created at 2022-12-26T21:49:46.072
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109386071'.
+
+# Created at 2022-12-26T21:49:48.558
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 56 timestamp:'.
+
+# Created at 2022-12-26T21:49:48.559
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109388557'.
+
+# Created at 2022-12-26T21:49:48.574
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 56 timestamp:'.
+
+# Created at 2022-12-26T21:49:48.575
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109388573'.
+
+# Created at 2022-12-26T21:49:48.627
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 54 timestamp:'.
+
+# Created at 2022-12-26T21:49:48.628
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109388627'.
+
+# Created at 2022-12-26T21:49:48.712
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 56 timestamp:'.
+
+# Created at 2022-12-26T21:49:48.712
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109388711'.
+
+# Created at 2022-12-26T21:49:50.734
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 57 timestamp:'.
+
+# Created at 2022-12-26T21:49:50.734
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109390733'.
+
+# Created at 2022-12-26T21:49:51.059
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 57 timestamp:'.
+
+# Created at 2022-12-26T21:49:51.060
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109391058'.
+
+# Created at 2022-12-26T21:49:51.075
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 57 timestamp:'.
+
+# Created at 2022-12-26T21:49:51.076
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109391074'.
+
+# Created at 2022-12-26T21:49:51.076
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 58 timestamp:'.
+
+# Created at 2022-12-26T21:49:51.076
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109391074'.
+
+# Created at 2022-12-26T21:49:51.088
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 58 timestamp:'.
+
+# Created at 2022-12-26T21:49:51.089
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109391086'.
+
+# Created at 2022-12-26T21:49:51.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 56 timestamp:'.
+
+# Created at 2022-12-26T21:49:51.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109391128'.
+
+# Created at 2022-12-26T21:49:51.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 58 timestamp:'.
+
+# Created at 2022-12-26T21:49:51.129
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109391128'.
+
+# Created at 2022-12-26T21:49:53.561
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 58 timestamp:'.
+
+# Created at 2022-12-26T21:49:53.562
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109393560'.
+
+# Created at 2022-12-26T21:49:56.067
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 59 timestamp:'.
+
+# Created at 2022-12-26T21:49:56.068
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109396066'.
+
+# Created at 2022-12-26T21:49:56.094
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 59 timestamp:'.
+
+# Created at 2022-12-26T21:49:56.095
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109396093'.
+
+# Created at 2022-12-26T21:49:56.222
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 57 timestamp:'.
+
+# Created at 2022-12-26T21:49:56.222
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109396221'.
+
+# Created at 2022-12-26T21:49:56.222
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 58 timestamp:'.
+
+# Created at 2022-12-26T21:49:56.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109396221'.
+
+# Created at 2022-12-26T21:49:56.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 59 timestamp:'.
+
+# Created at 2022-12-26T21:49:56.223
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109396221'.
+
+# Created at 2022-12-26T21:49:58.243
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 59 timestamp:'.
+
+# Created at 2022-12-26T21:49:58.243
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109398242'.
+
+# Created at 2022-12-26T21:49:58.585
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 60 timestamp:'.
+
+# Created at 2022-12-26T21:49:58.585
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109398584'.
+
+# Created at 2022-12-26T21:49:58.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 59 timestamp:'.
+
+# Created at 2022-12-26T21:49:58.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109398634'.
+
+# Created at 2022-12-26T21:49:59.720
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 59 timestamp:'.
+
+# Created at 2022-12-26T21:49:59.720
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109399719'.
+
+# Created at 2022-12-26T21:50:00.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 61 timestamp:'.
+
+# Created at 2022-12-26T21:50:00.746
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109400744'.
+
+# Created at 2022-12-26T21:50:01.072
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 60 timestamp:'.
+
+# Created at 2022-12-26T21:50:01.072
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109401071'.
+
+# Created at 2022-12-26T21:50:01.096
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 62 timestamp:'.
+
+# Created at 2022-12-26T21:50:01.096
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109401095'.
+
+# Created at 2022-12-26T21:50:01.139
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 62 timestamp:'.
+
+# Created at 2022-12-26T21:50:01.140
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109401138'.
+
+# Created at 2022-12-26T21:50:03.640
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 63 timestamp:'.
+
+# Created at 2022-12-26T21:50:03.641
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109403639'.
+
+# Created at 2022-12-26T21:50:03.726
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 61 timestamp:'.
+
+# Created at 2022-12-26T21:50:03.726
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109403725'.
+
+# Created at 2022-12-26T21:50:03.727
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 62 timestamp:'.
+
+# Created at 2022-12-26T21:50:03.727
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109403725'.
+
+# Created at 2022-12-26T21:50:05.753
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 63 timestamp:'.
+
+# Created at 2022-12-26T21:50:05.754
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109405752'.
+
+# Created at 2022-12-26T21:50:06.092
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 62 timestamp:'.
+
+# Created at 2022-12-26T21:50:06.092
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109406091'.
+
+# Created at 2022-12-26T21:50:06.093
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 63 timestamp:'.
+
+# Created at 2022-12-26T21:50:06.093
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109406091'.
+
+# Created at 2022-12-26T21:50:06.146
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 64 timestamp:'.
+
+# Created at 2022-12-26T21:50:06.146
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109406145'.
+
+# Created at 2022-12-26T21:50:08.650
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 65 timestamp:'.
+
+# Created at 2022-12-26T21:50:08.650
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109408648'.
+
+# Created at 2022-12-26T21:50:11.082
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 63 timestamp:'.
+
+# Created at 2022-12-26T21:50:11.083
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109411079'.
+
+# Created at 2022-12-26T21:50:11.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 65 timestamp:'.
+
+# Created at 2022-12-26T21:50:11.099
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109411097'.
+
+# Created at 2022-12-26T21:50:11.155
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 66 timestamp:'.
+
+# Created at 2022-12-26T21:50:11.155
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109411154'.
+
+# Created at 2022-12-26T21:50:11.234
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 63 timestamp:'.
+
+# Created at 2022-12-26T21:50:11.235
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109411233'.
+
+# Created at 2022-12-26T21:50:13.603
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 66 timestamp:'.
+
+# Created at 2022-12-26T21:50:13.604
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109413602'.
+
+# Created at 2022-12-26T21:50:13.735
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 66 timestamp:'.
+
+# Created at 2022-12-26T21:50:13.736
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109413735'.
+
+# Created at 2022-12-26T21:50:15.763
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 67 timestamp:'.
+
+# Created at 2022-12-26T21:50:15.763
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109415762'.
+
+# Created at 2022-12-26T21:50:16.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 66 timestamp:'.
+
+# Created at 2022-12-26T21:50:16.084
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109416083'.
+
+# Created at 2022-12-26T21:50:16.107
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 67 timestamp:'.
+
+# Created at 2022-12-26T21:50:16.108
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109416106'.
+
+# Created at 2022-12-26T21:50:16.163
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 67 timestamp:'.
+
+# Created at 2022-12-26T21:50:16.163
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109416162'.
+
+# Created at 2022-12-26T21:50:17.240
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 5 heartbeat: 66 timestamp:'.
+
+# Created at 2022-12-26T21:50:17.240
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109417237'.
+
+# Created at 2022-12-26T21:50:18.264
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 7 heartbeat: 68 timestamp:'.
+
+# Created at 2022-12-26T21:50:18.264
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109418263'.
+
+# Created at 2022-12-26T21:50:18.586
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 67 timestamp:'.
+
+# Created at 2022-12-26T21:50:18.586
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109418585'.
+
+# Created at 2022-12-26T21:50:18.586
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 68 timestamp:'.
+
+# Created at 2022-12-26T21:50:18.587
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109418585'.
+
+# Created at 2022-12-26T21:50:21.112
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 69 timestamp:'.
+
+# Created at 2022-12-26T21:50:21.112
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109421111'.
+
+# Created at 2022-12-26T21:50:21.240
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 68 timestamp:'.
+
+# Created at 2022-12-26T21:50:21.241
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109421240'.
+
+# Created at 2022-12-26T21:50:21.241
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 69 timestamp:'.
+
+# Created at 2022-12-26T21:50:21.241
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109421240'.
+
+# Created at 2022-12-26T21:50:23.588
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 69 timestamp:'.
+
+# Created at 2022-12-26T21:50:23.589
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109423587'.
+
+# Created at 2022-12-26T21:50:23.615
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 70 timestamp:'.
+
+# Created at 2022-12-26T21:50:23.615
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109423613'.
+
+# Created at 2022-12-26T21:50:23.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 71 timestamp:'.
+
+# Created at 2022-12-26T21:50:23.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109423744'.
+
+# Created at 2022-12-26T21:50:26.114
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 3 heartbeat: 70 timestamp:'.
+
+# Created at 2022-12-26T21:50:26.115
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109426114'.
+
+# Created at 2022-12-26T21:50:26.119
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 0 heartbeat: 71 timestamp:'.
+
+# Created at 2022-12-26T21:50:26.119
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109426118'.
+
+# Created at 2022-12-26T21:50:26.170
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 4 heartbeat: 72 timestamp:'.
+
+# Created at 2022-12-26T21:50:26.170
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109426169'.
+
+# Created at 2022-12-26T21:50:26.247
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 6 heartbeat: 72 timestamp:'.
+
+# Created at 2022-12-26T21:50:26.247
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109426246'.
+
+# Created at 2022-12-26T21:50:28.599
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 71 timestamp:'.
+
+# Created at 2022-12-26T21:50:28.600
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109428594'.
+
+# Created at 2022-12-26T21:50:28.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'my ID is 1 heartbeat: 72 timestamp:'.
+
+# Created at 2022-12-26T21:50:28.602
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '1672109428594'.
+
